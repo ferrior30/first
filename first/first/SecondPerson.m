@@ -9,5 +9,5 @@
 #import "SecondPerson.h"
 
 @implementation SecondPerson
-
+@property(nontomic, storng) NSString *name;
 @end
