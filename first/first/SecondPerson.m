@@ -15,7 +15,9 @@
 @implementation SecondPerson
 - (NSString *)age {
 
-    int home = 18;
+//    int home = 18;
+
+    int home = 20; // dev
     printf("%d", home);
     return @"home--home";
 //    return @"home22";
