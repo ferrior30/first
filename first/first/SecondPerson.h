@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface SecondPerson : NSObject
-
+@property (copy, nonatomic) NSString *name;
 @end
