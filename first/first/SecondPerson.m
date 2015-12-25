@@ -9,7 +9,7 @@
 #import "SecondPerson.h"
 
 @interface SecondPerson ()
-@property (strong, nonatomic) NSString *age;
+
 @end
 
 @implementation SecondPerson
