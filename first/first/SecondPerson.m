@@ -13,5 +13,7 @@
 @end
 
 @implementation SecondPerson
-
+- (NSString *)age {
+    return @"dev";
+}
 @end
