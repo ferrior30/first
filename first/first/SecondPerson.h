@@ -9,5 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface SecondPerson : NSObject
-
+@property (copy, nonatomic) NSString *age;
+@property (copy, nonatomic) NSString *schoolName;
 @end
